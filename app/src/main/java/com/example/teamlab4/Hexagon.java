@@ -1,0 +1,5 @@
+package com.example.teamlab4;
+
+public class Hexagon extends Shape {
+
+}
