@@ -1,5 +1,2 @@
-package com.example.teamlab4;
-
-public class Quadrilateral extends Shape{
-
+package com.example.teamlab4;public class Quadrilateral {
 }
